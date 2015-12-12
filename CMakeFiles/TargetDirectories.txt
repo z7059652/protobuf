@@ -1,0 +1,6 @@
+D:/open source/protobuf-master/cmake/CMakeFiles/libprotoc.dir
+D:/open source/protobuf-master/cmake/CMakeFiles/ALL_BUILD.dir
+D:/open source/protobuf-master/cmake/CMakeFiles/libprotobuf.dir
+D:/open source/protobuf-master/cmake/CMakeFiles/libprotobuf-lite.dir
+D:/open source/protobuf-master/cmake/CMakeFiles/ZERO_CHECK.dir
+D:/open source/protobuf-master/cmake/CMakeFiles/protoc.dir

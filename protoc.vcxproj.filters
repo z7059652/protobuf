@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\compiler\main.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{20443818-7940-3FB3-A6EF-3586017F71B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

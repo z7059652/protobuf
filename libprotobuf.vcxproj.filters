@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\arena.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\arenastring.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\extension_set.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\generated_message_util.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\io\coded_stream.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\io\zero_copy_stream.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\io\zero_copy_stream_impl_lite.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\message_lite.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\repeated_field.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\atomicops_internals_x86_gcc.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\atomicops_internals_x86_msvc.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\bytestream.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\common.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\int128.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\once.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\status.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\statusor.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\stringpiece.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\stringprintf.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\structurally_valid.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\strutil.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\time.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\wire_format_lite.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\any.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\any.pb.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\api.pb.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\compiler\importer.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\compiler\parser.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\descriptor.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\descriptor.pb.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\descriptor_database.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\duration.pb.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\dynamic_message.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\empty.pb.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\extension_set_heavy.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\field_mask.pb.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\generated_message_reflection.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\io\gzip_stream.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\io\printer.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\io\strtod.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\io\tokenizer.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\io\zero_copy_stream_impl.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\map_field.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\message.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\reflection_ops.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\service.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\source_context.pb.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\struct.pb.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\mathlimits.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\stubs\substitute.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\text_format.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\timestamp.pb.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\type.pb.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\unknown_field_set.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\field_comparator.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\field_mask_util.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\datapiece.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\default_value_objectwriter.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\error_listener.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\field_mask_utility.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\json_escaping.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\json_objectwriter.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\json_stream_parser.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\object_writer.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\protostream_objectsource.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\protostream_objectwriter.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\type_info.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\type_info_test_helper.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\internal\utility.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\json_util.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\message_differencer.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\time_util.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\util\type_resolver_util.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\wire_format.cc" />
+    <ClCompile Include="D:\open-source\protobuf-master\src\google\protobuf\wrappers.pb.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{20443818-7940-3FB3-A6EF-3586017F71B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
